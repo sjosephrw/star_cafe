@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/16641210/mongoose-populate-with-array-of-objects-containing-ref
